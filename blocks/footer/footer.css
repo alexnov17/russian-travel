@@ -16,9 +16,9 @@
 
 @media (max-width: 767px) {
     .footer {
-        width: calc(100%-32px);
+        width: calc(100%-134px);
         flex-direction: column;
         margin: 64px auto 0;
-        padding: 0 16px 24px;
+        padding: 0 118px 24px 16px;
     }
 }

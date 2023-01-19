@@ -4,7 +4,7 @@
     justify-content: center;
     align-items: center;
     max-width: 1184px;
-    margin: 92px 0 0;
+    margin: 92px auto 0;
     background-image: url(../../images/cover-trains.jpg);
     background-position: center;
     background-size: cover;
@@ -20,13 +20,13 @@
 
 @media (max-width: 1023px) {
     .cover {
-        margin: 90px 0 0;
+        margin: 90px auto 0;
     }
 }
 
 @media (max-width: 767px) {
     .cover {
-        margin: 66px 0 0;
+        margin: 66px auto 0;
         background-image: url(../../images/cover-trains-s.jpg);
     }
 }
