@@ -4,12 +4,10 @@
     justify-content: center;
     align-items: center;
     max-width: 1184px;
-    margin: 92px auto 0;
-    padding: 0 48px 0;
-    background-color: rgba(42, 44, 47, 0.3);
+    margin: 92px 0 0;
     background-image: url(../../images/cover-trains.jpg);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 

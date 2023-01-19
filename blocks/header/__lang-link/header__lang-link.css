@@ -5,11 +5,13 @@
     line-height: 1.17;
     text-align: right;
     color: #FFFFFF;
-    margin-right: 18px;
+    margin: 0;
+    padding: 0;
+    text-decoration-line: none;
 }
 
-.header__lang-link:last-of-type {
-    margin-right: 0;
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media (max-width: 767px) {

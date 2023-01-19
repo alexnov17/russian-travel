@@ -9,6 +9,5 @@
 @media (max-width: 767px) {
     .footer__links {
         flex-direction: column;
-        gap: 32px;
     }
 }

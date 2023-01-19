@@ -10,8 +10,4 @@
     .place__paragraph {
         margin: 25px 0 0;
     }
-
-    .place__paragraph:first-of-type {
-        margin: 0;
-    }
 }
