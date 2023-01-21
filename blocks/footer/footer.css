@@ -18,7 +18,7 @@
     .footer {
         width: calc(100% - 32px);
         flex-direction: column;
-        margin: 64px 0 0 0;
-        padding: 0 16px 24px;
+        margin: 64px 16px 0 16px;
+        padding: 0 0 24px 0;
     }
 }
